@@ -1,0 +1,14 @@
+{
+  "name": "coastal-ocean-toolkit",
+  "version": "1.0.0",
+  "description": "Desktop App for Coastal and Ocean Engineering using Streamlit",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
